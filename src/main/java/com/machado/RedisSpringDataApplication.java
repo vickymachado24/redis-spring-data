@@ -1,4 +1,4 @@
-package com.machado.redis_spring_data;
+package com.machado;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
